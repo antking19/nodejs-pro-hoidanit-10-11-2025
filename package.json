@@ -1,0 +1,27 @@
+{
+    "name": "nodejs-pro-hoidanit",
+    "version": "1.0.0",
+    "description": "nodejs pro hoidanit",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025.git"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "mogodb"
+    ],
+    "author": {
+        "name": "Marcus Cheung",
+        "url": "https//hoidanit.vn"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025/issues"
+    },
+    "homepage": "https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025#readme"
+}
