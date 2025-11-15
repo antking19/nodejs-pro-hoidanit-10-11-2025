@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025/issues"
     },
-    "homepage": "https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025#readme"
+    "homepage": "https://github.com/antking19/nodejs-pro-hoidanit-10-11-2025#readme",
+    "dependencies": {
+        "express": "5.0.1"
+    }
 }
